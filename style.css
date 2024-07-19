@@ -1,0 +1,35 @@
+.empty{
+    height: 500px;
+    width: 360px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 200px;
+    border-radius: 20px;
+}
+.body{
+    background-color:lightblue;
+}
+.writeup1{
+    font: 600;font-weight: 700;
+        font-size: 20px;
+        margin-left: 50px;
+        margin-right: 50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+}
+.writeup2{
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: smaller;
+    text-align: center;
+}
+.minimize{
+    border-radius: 1em;
+    height: 320px;
+    width: 320px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
